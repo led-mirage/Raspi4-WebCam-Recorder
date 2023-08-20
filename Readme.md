@@ -37,11 +37,11 @@
 
 ## 装置画像
 
-
+![screenshot](https://github.com/led-mirage/Raspi4-WebCam-Recorder/assets/139528700/8ac1fb62-a812-45c4-b1ae-10e953324fb7)
 
 ## サンプル動画
 
-
+https://github.com/led-mirage/Raspi4-WebCam-Recorder/assets/139528700/94cbbd7b-4c5a-493d-a9fc-9ee9ca35610c
 
 ## 実行環境
 
